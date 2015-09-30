@@ -1,0 +1,20 @@
+body {
+  font-size: 18px;
+  color: black;
+  text-align: center;
+}
+
+input {
+  font-size: 16px;
+}
+
+button {
+  margin: 10px 5px;
+  font-size: 25px;
+  color: white;
+  background: green;
+}
+
+span {
+  color: blue;
+}
