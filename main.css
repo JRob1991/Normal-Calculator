@@ -2,6 +2,7 @@ body {
   font-size: 18px;
   color: black;
   text-align: center;
+  background border:
 }
 
 input {
@@ -13,8 +14,20 @@ button {
   font-size: 25px;
   color: white;
   background: green;
+  font-family: 'Lato', sans-serif;
 }
 
 span {
   color: blue;
 }
+
+h3 {
+  color: blue;
+}
+
+html {
+  border: solid red;
+  width: 60%;
+  font-family: 'Lato', sans-serif;
+}
+
